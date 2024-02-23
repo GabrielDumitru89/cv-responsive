@@ -11,6 +11,7 @@ body {
 
 .leftSide {
   min-width: 300px;
+  width: 300px;
   background-color: rgba(66, 137, 243, 0.815);
   min-height: 100vh;
   padding: 2%;
